@@ -1,7 +1,8 @@
 <? include 'head.php' ?>
-<? $num = 2;
+<? 
+$num = 2;
 ?>
-        <article>
-            서브02입니다.
-        </article>
+    <article>
+    나는 서버02
+    </article>
 <? include 'tail.php' ?>

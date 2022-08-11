@@ -1,3 +1,3 @@
 <? 
-$title = 'Young home'
+$title = '이창훈 홈페이지';
 ?>

@@ -1,5 +1,5 @@
 <? include 'head.php' ?>
-        <main>
-            메인입니다.
-        </main>
+    <main>
+    나는 메인
+    </main>
 <? include 'tail.php' ?>
